@@ -16,31 +16,6 @@ body {
 }
 
 
-#navBar {
-    font-family: Arial, Helvetica, sans-serif;
-    height: 100px;
-    width: 100%;
-    background-color: red;
-    font-weight: bolder;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 20px;
-}
-
-#navBar ul {
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 100px;
-}
-
-#navBar ul li a {
-    text-decoration: none;
-    color: white;
-    font-size: 1.5rem;
-}
 
 /* Nike Product Card */
 
